@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Geek Out\n"
+"POT-Creation-Date: 2014-12-19 13:18-0700\n"
+"PO-Revision-Date: 2014-12-19 13:21-0700\n"
+"Last-Translator: Geek Out <hola@geekout.mx>\n"
+"Language-Team: Geek Out Team <hola@geekout.mx>\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../geekout/author.php:51 ../geekout/index.php:46
+msgid "Today"
+msgstr "Hoy"
+
+#: ../geekout/author.php:53 ../geekout/index.php:48
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: ../geekout/author.php:185 ../geekout/index.php:183
+#: ../geekout/search.php:194 ../geekout/single.php:188
+msgid "Sorry, no posts matched your criteria."
+msgstr "Lo sentimos, no hay un post que corresponda a tu criterio."
+
+#: ../geekout/comments.php:30 ../geekout/comments.php:48
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: ../geekout/comments.php:31 ../geekout/comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios Anteriores"
+
+#: ../geekout/comments.php:32 ../geekout/comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos Comentarios &rarr;"
+
+#: ../geekout/comments.php:55
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: ../geekout/footer.php:20
+msgid "You must be logged in to do this."
+msgstr "Debes de estar registrado para hacer esto."
+
+#: ../geekout/footer.php:24
+msgid "Close"
+msgstr "Cerrado"
+
+#: ../geekout/functions.php:25
+msgid "Plugin Hunt Add ons"
+msgstr "Add ons de Plugin Hunt"
+
+#: ../geekout/functions.php:46
+msgid "Extend the Plugin Hunt Theme with our upcoming add ons"
+msgstr "Expande el tema de Plugin Hunt con nuestros próximos add ons"
+
+#: ../geekout/functions.php:48
+msgid "Mailchimp add on"
+msgstr "add on para Mailchimp"
+
+#: ../geekout/functions.php:50
+msgid ""
+"Capture email sign ups for visitors on your website with this amazing theme "
+"add on."
+msgstr ""
+"Captura registros de correos de los visitantes a tu sitio con este magnífico "
+"add on."
+
+#: ../geekout/functions.php:51 ../geekout/functions.php:58
+#: ../geekout/functions.php:65 ../geekout/functions.php:72
+msgid "Vote on this"
+msgstr "Votar en esto"
+
+#: ../geekout/functions.php:55
+msgid "Comment voting add on"
+msgstr "Add on de votos en comentarios"
+
+#: ../geekout/functions.php:57
+msgid "Allow users to be able to up/down vote comments made by members."
+msgstr ""
+"Permite a los usuarios votar arriba/abajo los comentarios hechos por otros "
+"usuarios registrados."
+
+#: ../geekout/functions.php:62
+msgid "Built in Blog"
+msgstr "Blog agregado"
+
+#: ../geekout/functions.php:64
+msgid ""
+"Use the power of WordPress as a blogging platform to allow a self-hosted "
+"blog."
+msgstr ""
+"Usa el poder de Wordpress como una plataforma para bloguear para permitir "
+"tener un blog hospedado en tu servidor."
+
+#: ../geekout/functions.php:69
+msgid "Auto Email Add on"
+msgstr "Add on de Auto Email"
+
+#: ../geekout/functions.php:71
+msgid "Email users a daily, weekly, or monthly round up of your recent posts."
+msgstr ""
+"Envía un correo electrónico a los usuarios de forma semanal o mensual de un "
+"resumen de tus posts más recientes."
+
+#: ../geekout/functions.php:147
+msgid "External link that this post title redirects to"
+msgstr "Link externo al cual este post title es redireccionado"
+
+#: ../geekout/functions.php:425
+msgid "Submit new post form"
+msgstr "Formulario para enviar un post nuevo"
+
+#: ../geekout/functions.php:437
+msgid "Title"
+msgstr "Título"
+
+#: ../geekout/functions.php:450
+msgid "Sub-title"
+msgstr "Sub-título"
+
+#: ../geekout/functions.php:460
+msgid "Success messages"
+msgstr "Mensaje exitoso"
+
+#: ../geekout/functions.php:525 ../geekout/functions.php:533
+msgid "Logo"
+msgstr "Logo"
+
+#: ../geekout/functions.php:539
+msgid "Layout"
+msgstr "Layout"
+
+#: ../geekout/functions.php:548
+msgid "Post content"
+msgstr "Enviar contenido"
+
+#: ../geekout/functions.php:805
+#, php-format
+msgid ""
+"The theme will not work unless you setup infinite scroll correctly | <a href="
+"\"http://epicplugins.com/help/infinite-scroll-settings-for-the-plugin-hunt-"
+"theme/\" target=\"_blank\">See Which Infinite Scroll Settings To Use</a> or "
+"<a href=\"%1$s\">Hide Notice</a> |"
+msgstr ""
+"El tema no va a funcionar hasta que tu configures de forma correcta el "
+"infinite scroll | <a href=\"http://epicplugins.com/help/infinite-scroll-"
+"settings-for-the-plugin-hunt-theme/\" target=\"_blank\">Ve que configuración "
+"tienes que usar para el infinit scroll</a> or <a href=\"%1$s\">Ocultar "
+"Mensaje</a>"
+
+#: ../geekout/functions.php:914
+#: ../geekout/includes/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Necesarios"
+
+#: ../geekout/functions.php:915
+#: ../geekout/includes/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: ../geekout/functions.php:916
+#: ../geekout/includes/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: ../geekout/functions.php:917
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: ../geekout/functions.php:928
+#: ../geekout/includes/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Regresar al instalador de Plugins requeridos"
+
+#: ../geekout/functions.php:929
+#: ../geekout/includes/class-tgm-plugin-activation.php:177
+#: ../geekout/includes/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "El plugin fue activado de forma exitosa."
+
+#: ../geekout/functions.php:930
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins fueron instalados y activados de forma exitosa. %s"
+
+#: ../geekout/header.php:79
+msgid "Hello "
+msgstr "Hola"
+
+#: ../geekout/header.php:85 ../header.php:85
+msgid "Public Profile"
+msgstr "Perfil Público"
+
+#: ../geekout/header.php:86 ../header.php:86
+msgid "Your Account"
+msgstr "Tu Cuenta"
+
+#: ../geekout/header.php:87 ../header.php:87
+msgid "Logout"
+msgstr "Salir"
+
+#: ../geekout/header.php:94
+msgid "Login"
+msgstr "Entrar"
+
+#: ../geekout/header.php:127 ../header.php:127
+msgid "URL"
+msgstr "URL"
+
+#: ../geekout/header.php:128 ../geekout/short-comments.php:2054
+#: ../header.php:128
+msgid "Name"
+msgstr "Nombre"
+
+#: ../geekout/header.php:129 ../header.php:129
+msgid "Tagline"
+msgstr "Tagline"
+
+#: ../geekout/header.php:141 ../header.php:141
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ../geekout/header.php:150 ../header.php:150
+msgid "Posted by"
+msgstr "Enviado por"
+
+#: ../geekout/header.php:187 ../header.php:187
+msgid "Upvotes"
+msgstr "Votos"
+
+#: ../geekout/header.php:197
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Regresar al escritorio"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin fue activado de forma exitosa:"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins fueron instalados y activados de forma exitosa. %1$s"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Ocultar este mensaje"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:534
+#: ../geekout/includes/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Regresar al escritorio"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "Pre-Empacado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "Repositorio de Wordpress"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr "Requerido"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1290
+#: ../geekout/includes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Instalar"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1312
+#: ../geekout/includes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Activado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins que instalar o activar. <a href=\"%1$s\" title=\"Regresar al "
+"Escritorio\">Regresar al Escritorio</a>"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Fuente"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Tipo"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Estado"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Paquete para instalar no disponible."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando paquete para instalar de <span class=\"code\">%s</span>&#8230;"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Desempacado el paquete&#8230;"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Instalado el plugin&#8230;"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "El plugin a fallado."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado exitosamente."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Activación de plugin fallida."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación a iniciado. Este proceso puede tomar "
+"algo de tiempo en algunos servidores, ten paciencia."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado exitosamente."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2059
+#: ../geekout/includes/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2059
+#: ../geekout/includes/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación a iniciado. Este proceso puede tomar algo de "
+"tiempo en algunos servidores, ten paciencia."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error al instalar %1$s: <strong>%2$s</strong>."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s a fallado."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s fue instalado exitosamente."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#: ../geekout/includes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: ../geekout/searchform.php:4
+msgid "Search this site:"
+msgstr "Buscar en este sitio:"
+
+#: ../geekout/searchform.php:5
+msgid "Search.."
+msgstr "Buscar..."
+
+#: ../geekout/short-comments.php:29
+msgid "Anonymous"
+msgstr "Anónimo"
+
+#: ../geekout/short-comments.php:724 ../geekout/short-comments.php:1217
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: ../geekout/short-comments.php:726 ../geekout/short-comments.php:1215
+msgid "No Comments"
+msgstr "No hay comentarios"
+
+#: ../geekout/short-comments.php:728 ../geekout/short-comments.php:1216
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../geekout/short-comments.php:878
+msgid "Trackback"
+msgstr "Trackback"
+
+#: ../geekout/short-comments.php:879
+msgid "Pingback"
+msgstr "Pingback"
+
+#: ../geekout/short-comments.php:931
+msgid ""
+"Use <code>get_trackback_url()</code> instead if you do not want the value "
+"echoed."
+msgstr ""
+"Usa esto <code>get_trackback_url()</code> si no quieres que el valor se "
+"imprima."
+
+#: ../geekout/short-comments.php:1218
+msgid "Comments Off"
+msgstr "Comentarios cerrados"
+
+#: ../geekout/short-comments.php:1228
+msgid "Enter your password to view comments."
+msgstr "Escribe tu contraseña para ver los comentarios."
+
+#: ../geekout/short-comments.php:1263
+#, php-format
+msgid "Comment on %s"
+msgstr "Comentario en %s"
+
+#: ../geekout/short-comments.php:1299
+msgid "Reply"
+msgstr "Responder"
+
+#: ../geekout/short-comments.php:1300
+msgid "Log in to Reply"
+msgstr "Ingresa para Responder"
+
+#: ../geekout/short-comments.php:1385
+msgid "Leave a Comment"
+msgstr "Dejar un Comentario"
+
+#: ../geekout/short-comments.php:1386
+msgid "Log in to leave a Comment"
+msgstr "Ingresa para dejar un Comentario"
+
+#: ../geekout/short-comments.php:1440
+msgid "Click here to cancel reply."
+msgstr "Haz click aquí para cancelar tu respuesta."
+
+#: ../geekout/short-comments.php:1526 ../geekout/short-comments.php:2083
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: ../geekout/short-comments.php:1527 ../geekout/short-comments.php:2084
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a %s"
+
+#: ../geekout/short-comments.php:1757
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../geekout/short-comments.php:1757 ../geekout/short-comments.php:1843
+msgid "Edit"
+msgstr "Editar"
+
+#: ../geekout/short-comments.php:1789
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">dice:</span>"
+
+#: ../geekout/short-comments.php:1792 ../geekout/short-comments.php:1847
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está siendo moderado."
+
+#. translators: 1: date, 2: time
+#: ../geekout/short-comments.php:1799
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: ../geekout/short-comments.php:1799
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../geekout/short-comments.php:1834
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dice:</span>"
+
+#: ../geekout/short-comments.php:2056
+msgid "Email"
+msgstr "Correo"
+
+#: ../geekout/short-comments.php:2058
+msgid "Website"
+msgstr "Página Web"
+
+#: ../geekout/short-comments.php:2062
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Los campos requeridos son marcados con %s"
+
+#: ../geekout/short-comments.php:2076
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Debes de estar <a href=\"%s\">registrado</a> para publicar un comentario."
+
+#: ../geekout/short-comments.php:2078
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Registrado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Salir de "
+"esta cuenta\">¿Quieres Salir?</a>"
+
+#: ../geekout/short-comments.php:2079
+msgid "Your email address will not be published."
+msgstr "Tu correo electrónico no será publicado."
+
+#: ../geekout/short-comments.php:2080
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Puedes usar estas etiquetas y atributos <abbr title=\"HyperText Markup "
+"Language\">HTML</abbr>: %s"
+
+#: ../geekout/short-comments.php:2085
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+#: ../geekout/short-comments.php:2086
+msgid "Post Comment"
+msgstr "Enviar Comentario"
+
+#: ../header.php:79
+msgid "Hello"
+msgstr "Hola"
+
+#: ../header.php:197
+msgid "comments"
+msgstr "comentarios."

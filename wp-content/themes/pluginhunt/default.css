@@ -1,0 +1,460 @@
+
+body {
+font: normal x-small verdana,arial,helvetica,sans-serif;
+background-color: white;
+z-index: 1;
+}
+
+.sidebar h4{
+	color: #0088cc;
+}
+
+.footer{
+	background: #EFF7FF;
+	min-height: 250px;
+	color:lightblue;
+	border-top: 1px solid #5f99cf;
+}
+
+.login li{
+	list-style-type:none;
+}
+
+.main-content{
+	min-height:600px;
+}
+
+.screen-only
+{
+	 display: block;
+}
+.mobile-only
+{
+	 display: none;
+}
+
+@media screen and (max-width: 480px)  
+{
+	 .screen-only
+	 {
+	 	 display: none;
+	 }
+
+	 .mobile-only
+	 {
+	 	 display: block;
+	 }
+}
+
+
+
+.footer p{
+	color: #0088cc;
+}
+.lead{
+	padding-bottom:10px;
+}
+
+.flat-list ul li{
+list-style-type: none;
+display: inline;
+}
+
+#sr-header-area .sr-list {
+overflow: hidden;
+}
+
+.width-clip {
+position: absolute;
+left: 0;
+right: 0;
+}
+
+
+.width-clip ul li{
+	display:inline;
+}
+
+.width-clip ul li a{
+color: black;
+padding-left: 3px;
+padding-right: 3px;
+}
+
+#sr-header-area {
+background-color: #f0f0f0;
+white-space: nowrap;
+text-transform: uppercase;
+border-bottom: 1px solid gray;
+font-size: 90%;
+height: 18px;
+line-height: 18px;
+}
+
+.dropdown.srdrop {
+float: left;
+padding-left: 5px;
+}
+
+
+.dropdown.srdrop .selected {
+background: transparent none no-repeat scroll center right;
+background-image: url(./img/droparrowgray.gif);
+display: inline-block;
+vertical-align: bottom;
+padding-right: 21px;
+padding-left: 5px;
+color: black;
+font-weight: normal;
+margin-left: -5px;
+margin-right: 10px;
+}
+
+#header {
+border-bottom: 1px solid #5f99cf;
+position: relative;
+background-color: #cee3f8;
+z-index: 99;
+}
+
+
+
+.reddit-dotty{
+	border-top: 1px dotted #369;
+}
+
+.footer h2{
+	color: #0088cc;
+	font-size: 18px;
+}
+
+
+.tagline{
+	color: #888;
+font-size: x-small;
+}
+
+#header-img.default-header {
+text-indent: -9999px;
+background-image: url(./img/wpeddit-default.png);
+background-repeat: no-repeat;
+height: 40px;
+width: 120px;
+display: inline-block;
+vertical-align: bottom;
+margin-bottom: 3px;
+padding-left:10px;
+}
+
+
+#header-bottom-right {
+position: absolute;
+right: 0px;
+bottom: 0px;
+background-color: #EFF7FF;
+padding: 4px;
+line-height: 12px;
+border-top-left-radius: 7px;
+}
+
+
+#header-bottom-left {
+font-size: larger;
+
+border-bottom: 1px solid #5f99cf;
+position: relative;
+background-color: #cee3f8;
+}
+
+.score{
+text-align: center;
+color:#99b898;
+font-weight: bold;
+font-size: medium;
+margin-left: 3px;
+}
+
+.score2{
+text-align: center;
+color:#99b898;
+font-weight: bold;
+font-size: medium;
+margin-left: 3px;
+}
+
+.arrow.up {
+
+}
+
+.arrow2.up {
+
+}
+
+.arrow.down {
+
+}
+
+.arrow2.down {
+
+}
+
+.arrow.upmod {
+
+}
+
+.arrow.downmod {
+
+}
+
+.arrow {
+margin: 2px 0px 0px 0px;
+width: 100%;
+height: 14px;
+display: block;
+cursor: pointer;
+background-position: center center;
+background-repeat: no-repeat;
+width: 15px;
+margin-left: auto;
+margin-right: auto;
+outline: none;
+}
+
+.arrow2 {
+margin: 2px 0px 0px 0px;
+width: 100%;
+height: 14px;
+display: block;
+cursor: pointer;
+background-position: center center;
+background-repeat: no-repeat;
+width: 15px;
+margin-left: auto;
+margin-right: auto;
+outline: none;
+}
+
+.sidebar ul li{
+	list-style-type:none;
+}
+
+
+.reddit-voting{
+	width:50px;
+	text-align:center;
+	float:left;
+}
+
+
+#myModal ul li{
+	list-style-type:none;
+}
+
+.reddit-post {
+width: 80%;
+padding-left: 2%;
+}
+
+.tabmenu {
+list-style-type: none;
+white-space: nowrap;
+display: inline-block;
+margin-top: 5px;
+vertical-align: bottom;
+}
+
+.reddit-pad{
+	height:40px;
+}
+
+.unvoted{
+color:#99b898;
+}
+
+.likes{
+color:#99b898;
+}
+
+.score.dislikes {
+font-size: medium;
+margin-left: 3px;
+}
+
+.divide {
+border-right: 1px solid #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.reddit-row{
+	height:10px;
+}
+
+.reddit-register{
+	width:48%;
+}
+
+.reddit-login{
+	width:46%;
+}
+
+
+.title {
+font-size: medium;
+font-weight: normal;
+margin-bottom: 1px;
+color: blue;
+margin-right: .4em;
+padding: 0px;
+overflow: hidden;
+}
+
+.footer{
+
+}
+
+.morelink {
+display: block;
+text-align: center;
+position: relative;
+border: 1px solid #c4dbf1;
+background: white none repeat-x scroll center left;
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -0px -228px;
+background-repeat: repeat;
+font-size: 150%;
+font-weight: bold;
+letter-spacing: -1px;
+line-height: 29px;
+height: 29px;
+}
+
+.morelink:hover {
+border-color: #879eb4;
+background-image: url(./img/sprite-reddit.HLCFG7U22Hg.png);
+background-position: -0px -198px;
+background-repeat: repeat;
+}
+
+.red-more li{
+	list-style-type:none;
+}
+
+.footer li{
+	list-style-type:none;
+}
+
+.morelink2 a:hover{
+	text-decoration:none !important;
+}
+
+.linefield {
+padding: 7px 5px;
+font-size: large;
+background-color: #CEE3F8;
+margin-bottom: 10px;
+}
+
+.linefield .title {
+color: blue;
+font-weight: bold;
+padding: 1px 10px;
+}
+
+
+
+#respond h3{
+font-size: medium;
+font-weight: normal;
+margin-bottom: 1px;
+color: blue;
+margin-right: .4em;
+padding: 0px;
+overflow: hidden;
+color: #0088cc;
+}
+
+#comments{
+font-size: medium;
+font-weight: normal;
+margin-bottom: 1px;
+color: blue;
+margin-right: .4em;
+padding: 0px;
+overflow: hidden;
+color:#0088cc;
+}
+
+#respond input[type=text]{
+	width:80%;
+}
+#respond textarea{
+	width:80%;
+}
+
+.width-clip .cat-item{
+	display:inline;
+	color: #777777;
+	padding-left:2px;
+}
+.reddit-left-menu{
+	width:100%;
+	float:left;
+	overflow:hidden;
+}
+
+
+.red-login{
+	width:45%;
+	float:left;
+	padding-right:2%;
+}
+
+.red-pword{
+	width:49%;
+	float:right;
+}
+
+.red-login input[type=text]{
+	width:90%;
+	float:left;
+}
+
+.red-pword input[type=text]{
+	width:90%;
+	float:right;
+}
+
+.red-pword input[type=password] {
+	width:90%;
+	float:right;
+}
+
+.form-search input[type=text]{
+	width:95%;
+}
+
+.submit input[type=submit]{
+	margin:0px;
+}
+
+.tml-action-links{
+	padding-left:1%;
+}
+
+#theme-my-login1{
+padding-bottom: 3%;
+margin-bottom: 3%;
+}
+
+.forgetmenot{
+	padding-right:2%;
+}
+
+.rememberme{
+		font-size:smaller;
+}
+
+.red-login-form p{
+	margin:0px;
+}
